@@ -7,7 +7,6 @@ import com.axatp.api.serviceImpl.AzkabanServiceImpl;
 import java.lang.reflect.Proxy;
 
 /**
- * Created by shirukai on 2019-06-01 22:26
  * com.azkaban api Builder
  */
 public class AzkabanServiceProxyBuilder {

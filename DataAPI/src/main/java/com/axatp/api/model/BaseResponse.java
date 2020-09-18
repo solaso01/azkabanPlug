@@ -3,7 +3,6 @@ package com.axatp.api.model;
 import java.util.Objects;
 
 /**
- * Created by shirukai on 2019-06-01 15:03
  */
 public class BaseResponse {
     public static final String SUCCESS = "success";

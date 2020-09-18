@@ -8,7 +8,6 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Created by shirukai on 2019-06-03 11:05
  * 配置API，创建Bean，并注入Spring
  */
 @Configuration

@@ -3,7 +3,6 @@ package com.axatp.api.model;
 import java.util.List;
 
 /**
- * Created by shirukai on 2019-06-03 12:08
  * 查询FLow执行记录的响应
  */
 public class FetchFlowExecutionsResponse extends BaseResponse {

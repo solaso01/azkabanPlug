@@ -1,7 +1,6 @@
 package com.axatp.api.model;
 
 /**
- * Created by shirukai on 2019-06-03 11:27
  * 执行flow响应
  */
 public class ExecuteFlowResponse extends BaseResponse {

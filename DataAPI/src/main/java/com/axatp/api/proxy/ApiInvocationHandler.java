@@ -15,7 +15,6 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * Created by shirukai on 2019-06-01 20:17
  * API 动态代理处理类
  */
 public class ApiInvocationHandler implements InvocationHandler {

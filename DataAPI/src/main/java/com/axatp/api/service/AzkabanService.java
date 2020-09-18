@@ -3,7 +3,6 @@ package com.axatp.api.service;
 import com.axatp.api.model.*;
 
 /**
- * Created by shirukai on 2019-06-01 20:12
  * com.azkaban api 接口
  */
 public interface AzkabanService {

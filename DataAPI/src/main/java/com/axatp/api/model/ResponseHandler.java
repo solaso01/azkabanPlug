@@ -11,7 +11,6 @@ import org.slf4j.LoggerFactory;
 import java.util.Objects;
 
 /**
- * Created by shirukai on 2019-06-01 14:58
  * 响应处理器
  */
 public class ResponseHandler {
